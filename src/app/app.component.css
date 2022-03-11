@@ -1,0 +1,22 @@
+
+
+#NameLogin{
+    position: absolute;
+    left: 45%;
+    top: 15%;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+    
+}
+#inputUser{
+    position: absolute;
+    left: 43%;
+    top: 30%;
+
+}
+#inputPsw{
+    position: absolute;
+    left: 43%;
+    top: 35%;
+}
