@@ -1,0 +1,13 @@
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.exe
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.deps.json
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.runtimeconfig.json
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.runtimeconfig.dev.json
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.dll
+C:\Users\jhonn\first-project-angular\bin\Debug\netcoreapp3.1\first-project-angular.pdb
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.csprojAssemblyReference.cache
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.AssemblyInfoInputs.cache
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.AssemblyInfo.cs
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.dll
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.pdb
+C:\Users\jhonn\first-project-angular\obj\Debug\netcoreapp3.1\first-project-angular.genruntimeconfig.cache
